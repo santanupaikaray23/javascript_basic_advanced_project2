@@ -1,0 +1,42 @@
+->What is Ecma Script?
+Ans : It is a standard of writing Javascript.
+
+ ->Javascript Support three different datatype.
+ String : "Hii" "Hello" 'Delhi' '3445' "345.567"
+ , Number : 334 4533445 34.56 .55
+ , Boolean : true false 
+
+ Declare Variable
+ -----------------------
+ var a = 10
+ var b = "hi"
+ var c = true
+ typeof(a)
+'number'
+typeof(b)
+'string'
+typeof(c)
+'boolean'
+var d = "11"
+undefined
+var e = 'test'
+4%2
+0
+4%3
+1
+3%4
+3
+5%3
+2
+5%2
+1
+->modules to smaller to larger is always smaller.
+
+String+String = string
+string+number = string
+number+string = string
+number+number = number
+
+10+"20"+30
+10+20+"30"
+"10"+20+30
